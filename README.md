@@ -16,9 +16,9 @@ We explored all major methods provided by the `String` class and answered:
 
 * `.length()`, `.trim()`, `.toUpperCase()`, `.toLowerCase()`
 * `.substring()`, `.contains()`, `.replace()`, `.charAt()`
-* `.indexOf()`, `.lastIndexOf()`, `.split()`
-* `.equals()`, `.equalsIgnoreCase()`, `.compareTo()`, `.compareToIgnoreCase()`
-* `.hashCode()`, `.matches()`, `.valueOf()`, `.intern()`
+* `.indexOf()`, `.split()`
+* `.equals()`, `.equalsIgnoreCase()`,
+* `.hashCode()`
 
 ✅ For each method, we also discussed:
 
@@ -83,8 +83,8 @@ A console-based Java app that:
 
 ## 🧪 **Practice Exercises (GitHub)**
 
-* 🧠 [Java String Methods Drill Sheet](#)
-* 🧪 [Implement Custom String Utility Class](#)
+* 🧠 [Java String Methods Drill Sheet](https://github.com/FW-Zalando-Java-Backend-Engineer/Java-String-Methods-Drill-Sheet)
+* 🧪 [Implement Custom String Utility Class](https://github.com/FW-Zalando-Java-Backend-Engineer/Custom-String-Utility-Class)
 
 ---
 
