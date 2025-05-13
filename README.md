@@ -77,7 +77,7 @@ A console-based Java app that:
 ## 🎥 **Zoom Recording**
 
 🔗 *Coming soon*
-📌 **[Watch the Day 37 Session](#)** *(link will be added after upload)*
+📌 **[Watch the Day 37 Session](https://us06web.zoom.us/rec/share/7x0x-KYg9H6WFvw7oJzXBxm7-16xz9GbLC2y0qLdEZjAx3Ygzbx8PNIlQnhZcOQz.kbbYprWsIu-AuO_d?startTime=1747037974000)**
 
 ---
 
